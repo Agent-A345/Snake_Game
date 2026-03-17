@@ -12,7 +12,7 @@ A modern web-based implementation of the classic Snake Game, built using HTML5 C
 * **Retro Neon UI** – Futuristic green neon interface inspired by classic arcade consoles.
 
 ## 📂 Project Structure
-GlycoRisk-Engine/  
+Snake_Game/  
 ├── index.html   
 
 ## 💡 Technologies Used
